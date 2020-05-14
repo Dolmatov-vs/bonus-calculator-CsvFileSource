@@ -1,0 +1,6 @@
+"Registered user, bonus under limit", 100000, true, 30
+"Registered user, bonus over limit", 20000000 , true, 500
+"UnRegistered user, bonus under limit", 100000, false, 10
+"UnRegistered user, bonus over limit", 20000000, false, 500
+"Registered user, bonus equal limit", 1666800, true, 500
+"UnRegistered user, bonus equal limit", 5000000, false, 500
